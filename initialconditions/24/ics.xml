@@ -1,0 +1,2 @@
+<?xml version="1.0"?>
+<N-GenIC NumBodies="13824" Redshift="30.000000" Box="13.247000" OmegaMatter="0.300000" OmegaLambda="0.700000" OmegaBaryon="0.000000" HubbleParam_10km_s_Mpc_h="10.000000" WhichSpectrum="Efstathiou parametrization" Sigma8="0.900000" ShapeGamma="0.210000" PrimordialIndex="1.000000" UnitLength_in_m_Mpc_h="4.408111e+22" UnitMass_in_kg_1e10_Msol_h="2.840714e+40" UnitVelocity_in_m_s_10Km_s="1.000000e+04" Gravitational_Constant_m3_kg_s2="6.673840e-11" Binary_file="Yes" Data_filename="./sim24comov2/ics.bin"/>

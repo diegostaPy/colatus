@@ -1,0 +1,3 @@
+<?xml version="1.0"?>
+<NBody_Sim_Config Device_to_run="CPU" Benchmark="Yes" Compute_energy="Yes" Save_snapshots="Yes" Max_Snapshots="30"  Softering_epsilon="0.02" Max_time_steps="10000" Time_Step_Factor_Eta="0.02" Time_Linearization_Alpha="0.4" Redshift_final="1e-5" Tracking_Particules="Yes" HowManyParticulesTrack="10" IC_file="./initialconditions/32/ics.xml" Binary_output="No" Out_file="./out32"/>
+
